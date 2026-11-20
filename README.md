@@ -14,7 +14,7 @@ personne n'a à toucher à sa box.
 - YouTube, YouTube Music, SoundCloud, Spotify (joué depuis YouTube Music), DI.fm, Mixcloud, Bandcamp, radios
 - File d'attente commune, vote pour passer, like / dislike / favoris, playlists du groupe, historique
 - Si l'hôte s'en va, un pote prend la suite tout seul : la musique continue
-- Bot Discord optionnel : `/play`, `/skip`, `/invite`… sur votre serveur, tant que quelqu'un héberge
+- Bot Discord optionnel : `b!play`, `b!skip`, `b!invite`… sur votre serveur, tant que quelqu'un héberge
 
 ## Installer
 
@@ -27,7 +27,7 @@ Les mises à jour arrivent ensuite d'elles-mêmes : un bandeau propose la nouvel
 
 ## Rejoindre des potes
 
-Celui qui héberge t'envoie une invitation `boombox://…` (ou tape `/invite` sur votre Discord).
+Celui qui héberge t'envoie une invitation `boombox://…` (ou tape `b!invite` sur votre Discord : le lien arrive en message privé).
 Dans BoomBox : **BIB → Réglages → Rejoindre**, colle le lien. C'est tout, BoomBox s'y reconnecte seule ensuite.
 
 ## Héberger
